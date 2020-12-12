@@ -60,6 +60,8 @@ footer {
   grid-row: 2;
   float: right;
   margin: 50px;
+  position: relative;
+  top: 100px;
 }
 
 .fa-facebook-f {
